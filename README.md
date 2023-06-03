@@ -1,4 +1,4 @@
-# Hello there! 👋
+# Hello there.
 
 I'm Kael Hufford, a 16-year-old coder who loves working with the Spigot API and Java.
 
